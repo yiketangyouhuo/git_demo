@@ -2,5 +2,5 @@
 
 nsstring*name;
 
-
+int age;
 }
