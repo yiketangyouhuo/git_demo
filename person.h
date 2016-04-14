@@ -1,0 +1,6 @@
+@interface person{
+
+nsstring*name;
+
+
+}
